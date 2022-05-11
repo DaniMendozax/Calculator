@@ -3,7 +3,7 @@
 calculator with the following functions:
 
 						Sum, 
-						Subtract,  
+						Rest,  
 						Multiplication, 
 						Division
 
