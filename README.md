@@ -11,6 +11,7 @@ Requests a calculation session. Retrieves a stored calculation session.
 
 Example: input: 2+2 ouput: 4, input: 4-2 ouput: 2, input: 2*2 ouput: 4, input: 4/2 ouput: 2
 
+<<<<<<< HEAD
 **Prerequisites**
 
 It is necessary to have python3 to run the program
@@ -23,3 +24,4 @@ To run the program**
 		 cd Calculator
 3. Run with python3 or py depending on which terminal or emulator you are using the program.
 		Example: python3 Calculator.py or py Calculator.py
+
