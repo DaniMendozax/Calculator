@@ -17,6 +17,7 @@ It is necessary to have python3 to run the program
 https://www.python.org/downloads/|  
 
 To run the program
+
 1.  Clone this repository
 		git clone https://github.com/DaniMendozax/Calculator.git
 2.  To move to the folder use
