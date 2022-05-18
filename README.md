@@ -15,8 +15,8 @@ Example: input: 2+2 ouput: 4, input: 4-2 ouput: 2, input: 2*2 ouput: 4, input: 4
 
 It is necessary to have python3 to run the program
 https://www.python.org/downloads/|  
-**
-To run the program**
+
+To run the program
 1.  Clone this repository
 
 			git clone https://github.com/DaniMendozax/Calculator.git
